@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabio</h1>
-<h3 align="center">A passionate Site Reliability from Brazil, living in Estonia</h3>
+<h3 align="center">A passionate Platform Engineer from Brazil, living in Estonia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiohora&label=Profile%20views&color=0e75b6&style=flat" alt="fabiohora" /> </p>
 
