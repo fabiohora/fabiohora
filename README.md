@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiohora&label=Profile%20views&color=0e75b6&style=flat" alt="fabiohora" /> </p>
 
-- 🌱 I’m currently learning **Rust, Remix**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **node, react, javascript, typescript, aws, devops, sre**
 
