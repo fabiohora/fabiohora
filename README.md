@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **node, react, javascript, typescript, aws, devops, sre**
 
-- 📫 How to reach me **djfabiohora@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/fabiohora/](https://www.linkedin.com/in/fabiohora/)
 
 - ⚡ Fun fact **I'm always in great mood and have terrible jokes. :)**
